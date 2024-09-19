@@ -1,15 +1,15 @@
 {
-    "name": "RIAS_GREMORY-BOT v1.0",
+    "name": "ANJAN_SER-BOT",
     "description": "Simple WhatsApp Bot",
     "logo": "https://i.imgur.com/EBUvKfB.jpeg",
-    "keywords": ["RIAS_GREMORY-BOT", "rais", "rais-Bot"],
+    "keywords": ["ANJAN_SER-BOT", "anjan", "anjan-Bot"],
     "success_url": "/",
     "stack": "container",
   
     "env": {
       "OWNER_NAME": {
         "description": "Name for Bot Owner",
-        "value": "TOXXIC MD",
+        "value": "Anjan-Ser",
         "required": true
       },
   
@@ -40,12 +40,12 @@
       "BOT_NAME": {
         "description": " NAME FOR BOT",
         "required": false,
-        "value": "RIAS_GREMORY-BOT"
+        "value": "𝘼𝙉𝙅𝘼𝙉-𝙎𝙀𝙍-𝘽𝙊𝙏"
       },
       "TZ": {
         "description": "Put TIME_ZONE according to your location",
         "required": false,
-        "value": "Africa/Lagos"
+        "value": "Asia/kolkata"
       },
       "READ_COMMAND": {
         "description": " Read bot cmds",
@@ -75,7 +75,7 @@
       "WAPRESENCE": {
         "description": "Fill the value: 'unavailable'(for nothing) | 'available'(for alwaysonline) | 'composing'(for typing) | 'recording' | 'paused' ",
         "required": false,
-        "value": "unavailable"
+        "value": "available"
       },
       "AUTO_READ_STATUS": {
         "description": "Fill the value true if you want bot view your Statuses.",
@@ -111,11 +111,11 @@
       },
       "MODE": {
         "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
-        "value": "private"
+        "value": "public"
       },
       "PACK_NAME": {
         "description": "Put Sticker Pack_Name.",
-        "value": "Asta Md",
+        "value": "𝙰𝙽𝙹𝙰𝙽-𝚂𝙴𝚁",
         "required": false
       },
       "PACK_AUTHER": {
