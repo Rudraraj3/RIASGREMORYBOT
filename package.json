@@ -1,7 +1,7 @@
 {
-   "name": "RIAS-GREMORY",
+   "name": "ANJAN-SER",
    "version": "1.3.3",
-   "description": "Multi device whatsapp bot by Toxxic Boy.",
+   "description": "Multi device whatsapp bot by Anjan-Ser.",
    "main": "index.js",
    "type": "commonjs",
    "scripts": {
@@ -14,7 +14,7 @@
       "postinstall": "npx puppeteer@latest install --y"
    },
 
-"author": "Toxic1239",
+"author": "ANJAN-SER",
    "license": "Apache-2.0",
    "dependencies": {
       "@adiwajshing/keyed-db": "^0.2.4",
